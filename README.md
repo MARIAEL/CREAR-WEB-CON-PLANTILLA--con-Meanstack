@@ -103,10 +103,10 @@ Lo pegamos en **main.html** también entre el **header ** y el **footer**.
 
 Si estamos trabajando con el servidor directamente (no en modo local) habría que poner lo siguiente:  
 
-```<li><a href="<?php echo $config->urls->root?>nosotros/">Nosotros</a></li>
-                        <li><a href="<?php echo $config->urls->root?>servicios/">Servicios</a></li>
-                        <li><a href="<?php echo $config->urls->root?>portfolio/">Portfolio</a></li>
-                        <li><a href="<?php echo $config->urls->root?>recetas/">Recetas</a></li>```
+```<li><a href="<?php echo $config->urls->root?>nosotros/">Nosotros</a></li>  
+   <li><a href="<?php echo $config->urls->root?>servicios/">Servicios</a></li>  
+   <li><a href="<?php echo $config->urls->root?>portfolio/">Portfolio</a></li>  
+   <li><a href="<?php echo $config->urls->root?>recetas/">Recetas</a></li>  ```
 
 Ahora pegamos el contenido de **About us** (de la plantilla) a nuestro **Nosotros**  
 
