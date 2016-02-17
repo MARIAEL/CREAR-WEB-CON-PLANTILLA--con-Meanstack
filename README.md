@@ -90,7 +90,7 @@ Y donde ponía **js** poner **scripts**
 Después de este proceso REINICIAR EL SERVIDOR  
 
 ```Ctrl C``` y ```grunt serve```  
-
+Si no estamos trabajando en local sino con el servidor directamente, debemos por SFTP hacer upload folder.  
 
 #10.- Copiar contenidos  
 
